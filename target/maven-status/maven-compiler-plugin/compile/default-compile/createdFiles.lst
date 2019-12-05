@@ -1,0 +1,9 @@
+zhangs/flightsearch/controller/FlightController.class
+zhangs/flightsearch/model/Flight.class
+zhangs/flightsearch/model/ModelWrapper.class
+zhangs/flightsearch/repository/FlightRepository.class
+zhangs/flightsearch/model/ModelWrapper$ModelWrapperBuilder.class
+zhangs/flightsearch/repository/FlightRepository$1.class
+zhangs/flightsearch/model/Flight$FlightBuilder.class
+zhangs/flightsearch/service/FlightService.class
+zhangs/flightsearch/FlightSearchApplication.class
